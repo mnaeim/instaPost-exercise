@@ -1,0 +1,57 @@
+img {
+    width: 400px;
+    background-position: center;
+    
+}
+
+.box {
+    background-color:white;
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    margin-top: 300px;
+    padding-top: 0%;
+    padding-bottom: 15px;
+    
+}
+ body {
+     background-color: black;
+ }
+ 
+ p {
+     text-align: initial;
+     font-size: 20px;
+     margin-left: 10px;
+     margin-bottom: 10px;
+ }
+
+ #bookmark {
+    float: right;
+    margin-right: 5px;
+
+ }
+
+ #right-icons {
+     margin-left: 5px;
+ }
+
+ #topDots {
+     float: right;
+     margin-right: 5px;
+     padding-bottom: 15px;
+ }
+
+
+#ficon {
+    float: left;
+    font-size: 25px;
+    margin-left: 5px;
+    padding-top: 15px;
+}
+
+.text{
+    padding-top: 15px;
+    text-align: justify;
+}
+
+
