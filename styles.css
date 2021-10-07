@@ -28,17 +28,20 @@ img {
  #bookmark {
     float: right;
     margin-right: 5px;
+    font-size: 25px;
 
  }
 
  #right-icons {
      margin-left: 5px;
+     font-size: 25px;
  }
 
  #topDots {
      float: right;
      margin-right: 5px;
-     padding-bottom: 15px;
+   
+    
  }
 
 
@@ -46,12 +49,20 @@ img {
     float: left;
     font-size: 25px;
     margin-left: 5px;
-    padding-top: 15px;
+  
+    
 }
 
 .text{
-    padding-top: 15px;
     text-align: justify;
+    width: 80%;
 }
 
+.post-header{
+    display: flex;
+    padding: 15px 5px;
+}
 
+.top{
+    width: 10%;
+}
